@@ -24,7 +24,7 @@ line_highlights:
  n = (154, 205, 50) # YellowGreen    
  o = (128, 128, 0) # Olive
  p = (240, 230, 140) # Khaki
- q = (255, 255, 255) # Yellow
+ q = (255, 255, 0) # Yellow
  r = (184, 134, 11) # DarkGoldenrod
  s = (139, 69, 19) # SaddleBrown
  t = (255, 140, 0) # DarkOrange
