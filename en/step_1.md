@@ -8,7 +8,7 @@ line_numbers: false
 line_number_start: 
 line_highlights: 
 ---
- a = (255, 255, 255). # White
+ a = (255, 255, 255) # White
  b = (105, 105, 105) # DimGray
  c = (0, 0, 0) # Black
  d = (100, 149, 237) # CornflowerBlue
