@@ -17,7 +17,6 @@ line_highlights:
  f = (25, 25, 112) # MidnightBlue
  g = (0, 191, 255) # DeepSkyBlue
  h = (0, 255, 255) # Cyan
- i = (0, 128, 128) # Teal
  j = (143, 188, 143) # DarkSeaGreen
  k = (46, 139, 87) # SeaGreen
  l = (0, 255, 127) # SpringGreen
@@ -32,8 +31,7 @@ line_highlights:
  u = (178, 34, 34) # Firebrick
  v = (255, 0, 0) # Red
  w = (255, 192, 203) # Pink
- x = (255, 20, 147) # DeepPink
- y = (153, 50, 204) # DarkOrchid
- z = (102, 51, 153) # RebeccaPurple
+ y = (255, 20, 147) # DeepPink
+ z = (153, 50, 204) # DarkOrchid
  
 --- /code ---
