@@ -29,9 +29,9 @@ line_highlights:
  s = (139, 69, 19) # SadelBrun 
  t = (255, 140, 0) # MörkOrange 
  u = (178, 34, 34) # Tegel 
-  = (255, 0, 0) # Röd 
-  w = (255, 192, 203) # Rosa 
-  y = (255, 20, 147) # MörkRosa 
-  z = (153, 50, 204) # MörkOrkidèe
+ v = (255, 0, 0) # Röd 
+ w = (255, 192, 203) # Rosa 
+ y = (255, 20, 147) # MörkRosa 
+ z = (153, 50, 204) # MörkOrkidèe
 
 --- /code ---
